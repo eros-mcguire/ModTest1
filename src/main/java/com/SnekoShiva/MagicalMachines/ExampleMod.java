@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.SnekoShiva.MagicalMachines;
 
 import org.slf4j.Logger;
 
